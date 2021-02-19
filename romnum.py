@@ -64,6 +64,6 @@ while size > 0:
     print("i is now " + str(i))
     # repeat
 
-print(num + " is " + str(total) + " in roman numerals.")
+# Create a for loop -- it'll look and work better!
 
-# perhaps dictionary of full logic -- if I is before L then subtract I
+print(num + " is " + str(total) + " in roman numerals.")
